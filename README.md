@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for work
+🔭 I’m currently looking for work
 
 
 # 💻 Tech Stack:
